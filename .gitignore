@@ -1,0 +1,7 @@
+*.pyc
+**/__pycache__
+**/.ipynb_checkpoints
+**/.DS_Store
+*.Icon
+*.egg-info/
+.trunk
